@@ -1,0 +1,48 @@
+Metadata-Version: 1.1
+Name: compile-time
+Version: 0.1.0
+Summary: Measure time spent compiling
+Home-page: https://github.com/Charlisim/Time-Spent-Compiling
+Author: Carlos Simon
+Author-email: csimonts@gmail.com
+License: UNKNOWN
+Description: compile-time
+        ============
+        
+        .. image:: https://pypip.in/v/compile-time/badge.png
+            :target: https://pypi.python.org/pypi/compile-time
+            :alt: Latest PyPI version
+        
+        .. image:: https://travis-ci.org/borntyping/cookiecutter-pypackage-minimal.png
+           :target: https://travis-ci.org/borntyping/cookiecutter-pypackage-minimal
+           :alt: Latest Travis CI build status
+        
+        Measure time spent compiling
+        
+        Usage
+        -----
+        
+        Installation
+        ------------
+        
+        Requirements
+        ^^^^^^^^^^^^
+        
+        Compatibility
+        -------------
+        
+        Licence
+        -------
+        
+        Authors
+        -------
+        
+        `compile-time` was written by `Carlos Simón <csimonts@gmail.com>`_.
+        
+Platform: UNKNOWN
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4

@@ -1,0 +1,3 @@
+[console_scripts]
+ct = compile_time.__main__:main
+
