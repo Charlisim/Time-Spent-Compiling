@@ -12,12 +12,21 @@ How to use it
 To start measure time run this command:
 
 
-`ct start`
+`ct --start`
 
 When task is finished run this command:
 
 
-`ct finish`
+`ct --end`
+
+To sum up time spend:
+
+`ct --count`
+
+###Where data is stored?
+
+There is a file named ".compile_time" in your home dir (~). If you remove it will reset all stats
+
 
 # Integration
 
